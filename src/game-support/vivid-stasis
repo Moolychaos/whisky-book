@@ -1,0 +1,10 @@
+# vivid/stasis
+
+{{#template ../templates/rating.md status=Platnium installs=Yes opens=Yes}}
+
+## Setup
+
+- Install in Steam as normal
+- You will get some errors once launched, despite this the game will still run as normal.
+
+{{#template ../templates/steam.md id=2093940}}
